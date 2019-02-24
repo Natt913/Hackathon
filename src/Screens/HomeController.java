@@ -8,16 +8,11 @@ import javafx.scene.image.ImageView;
 public class HomeController {
 
     @FXML
-    Label faceScan;
+    ImageView HomeScreen;
 
     @FXML
-    ImageView green;
-    @FXML
-    ImageView red;
+    public void touchScreen(ActionEvent cry) {
 
-    @FXML
-    public void readFace(ActionEvent cry) {
-        faceScan.setVisible(false);
     }
 
 
