@@ -18,9 +18,9 @@
             <Image url="@../H_Primary_Logo_Black_Yellow_Line_RGB.png" />
          </image>
       </ImageView>
-      <Text layoutX="854.0" layoutY="609.0" strokeType="OUTSIDE" strokeWidth="0.0" text="-Touch Screen-">
+      <Text layoutX="640.0" layoutY="598.0" strokeType="OUTSIDE" strokeWidth="0.0" text="We’re here to get you there.">
          <font>
-            <Font name="Bell MT Italic" size="36.0" />
+            <Font name="Arial Bold Italic" size="36.0" />
          </font>
       </Text>
    </children>
